@@ -19,7 +19,7 @@ There are several rulesets. There is for example Emerging Threats (ET)
 Emerging Threats Pro and VRT.  In this example we are using Emerging
 Threats.
 
-Oinkmaster has to know where the rules an be found. These rules can be found at:
+Oinkmaster has to know where the rules can be found. These rules can be found at:
 
 ::
 
